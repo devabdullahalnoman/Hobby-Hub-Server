@@ -20,9 +20,9 @@ your own, and participate in meetups—all in one place!
 ## Dependencies
 
 - cors: ^2.8.5
-- "dotenv": "^16.5.0"
-- "express": "^5.1.0"
-- "mongodb": "^6.16.0"
+- dotenv: ^16.5.0
+- express: ^5.1.0
+- mongodb: ^6.16.0
 
 ## Features
 
