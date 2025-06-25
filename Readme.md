@@ -16,8 +16,13 @@ your own, and participate in meetups—all in one place!
 
 - Express.js
 - MongoDB
-- dotenv for environment variables
-- CORS
+
+## Dependencies
+
+- cors: ^2.8.5
+- "dotenv": "^16.5.0"
+- "express": "^5.1.0"
+- "mongodb": "^6.16.0"
 
 ## Features
 
@@ -30,3 +35,29 @@ your own, and participate in meetups—all in one place!
 
 - **Data Management:** Efficiently handling user-created hobby groups and ensuring smooth CRUD operations with MongoDB.
 - **Environment Variables Security:** Ensuring that sensitive MongoDB credentials remain hidden using dotenv.
+
+1. **Clone the repository**
+```bash
+ git clone https://github.com/devabdullahalnoman/Hobby-Hub-Server.git
+ cd Hobby-Hub-Server
+```
+
+   
+2. **Install dependencies**
+```bash
+npm install
+```
+
+3. **Set up environment variables Create a .env file and add:**
+```env
+DB_User="your database username"
+DB_Password="your database password"
+```
+        
+4. **Start the development server**
+
+```bash
+npm run dev
+```
+
+View the app Open http://localhost:3000
