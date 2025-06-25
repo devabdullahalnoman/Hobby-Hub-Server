@@ -36,6 +36,10 @@ your own, and participate in meetups—all in one place!
 - **Data Management:** Efficiently handling user-created hobby groups and ensuring smooth CRUD operations with MongoDB.
 - **Environment Variables Security:** Ensuring that sensitive MongoDB credentials remain hidden using dotenv.
 
+### Installation & Setup
+
+To run this project locally:
+
 1. **Clone the repository**
 ```bash
  git clone https://github.com/devabdullahalnoman/Hobby-Hub-Server.git
