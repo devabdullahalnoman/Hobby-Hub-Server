@@ -1,5 +1,7 @@
 # HobbyHub Server
 
+### Live Site: https://hobby-hub-client.web.app
+
 ## Overview
 
 This server handles authentication, database operations, and API endpoints for HobbyHub.
